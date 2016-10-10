@@ -10,7 +10,7 @@ Creating repository on github
 - git commands like: add, commit, push, fetch, merge  
 - Create branches  
 - Merge branches with rebase  
-- Forking a project (vs. branching)  
+- ing a project (vs. branching)  
 - Making a pull request  
 - Using git issues   
 - Labels and notifications  
@@ -548,18 +548,6 @@ When you `git merge` and it creates a CONFLICT do `git status` and it tells what
 	- `git commit --amend` changes the current commit (C2)
 	- `git cherry-pick C3` the last commit in the development branch
 	- So now master is pointing to the development branch (merged) and C2 was changed with some content
-
-
-
-
-###Lets demo
-<img align="right" src="img/demoman.png" />  
-**Demonstrate moving branches around**
-<br><br><br><br><br>
--``
--``
--``
--``
 
 
 ###Small exercise manipulating branches
