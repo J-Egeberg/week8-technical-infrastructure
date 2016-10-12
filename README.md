@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Week 8: Technical infrastructure
 ##What will happen:
 This week is a preparation for starting on the semester project. In this week we will focus on:
@@ -48,8 +47,10 @@ Readings and exercises are at:
 Workshop on GIT
 
 ##Day 4 - recapitulate Servlets
-We will go over how to use servlets to access and present the data we put in the database on monday
+We will go over how to use servlets to access and present the data we put in the database on monday. 
 
-##Day 5 - studypoint exercise
-Each of the previous days had some exercises. The hand-in is link to your groups github project, where we can see that all group members have made more than one commit. The link to the github should be send to the usual hand-in email _aflevering2sem@gmail.com_.
->>>>>>> refs/remotes/origin/master
+* [Exercises](study/day4Exercises.md)
+* Study the program webbuildings in the demo folder
+
+##Day 5 - Studypoint exercise
+See [Studypoint Exercise](study/day5SPexercise.md)
