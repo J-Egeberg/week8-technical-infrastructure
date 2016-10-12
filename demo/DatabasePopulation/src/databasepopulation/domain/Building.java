@@ -1,5 +1,7 @@
 package databasepopulation.domain;
 
+import java.util.List;
+
 /**
  * The purpose of Building is to represent the domain class Building.
  * 
@@ -7,6 +9,7 @@ package databasepopulation.domain;
  */
 public class Building {
     // street address, a contact person (name and telephone)
+    private int id;
     private String address;
     private int zip;
     private String city;
@@ -47,4 +50,13 @@ public class Building {
     public String getContactPhone() {
         return contactPhone;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId( int id ) {
+        this.id = id;
+    }
+
 }

@@ -5,13 +5,14 @@ USE buildings01;
 DROP USER IF EXISTS 'javapopulater';
 CREATE USER 'javapopulater' IDENTIFIED BY 'dejligtlangt$82verylong';
 GRANT ALL ON buildings01.* TO 'javapopulater';
+FLUSH PRIVILEGES;
 
 CREATE TABLE room (
   id int(11) NOT NULL AUTO_INCREMENT,
   floor int(11) ,
   roomNo int(11) ,
   noWindows int(11),
-  area int(11) ,
+  area float(11) ,
   fkBuilding int(11) ,
   PRIMARY KEY (id)
 );

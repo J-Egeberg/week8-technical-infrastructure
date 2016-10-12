@@ -15,7 +15,7 @@ import java.util.Set;
  */
 public final class PersonGenerator {
     
-    public static Iterable<Person> persons(int N){
+    public static List<Person> persons(int N){
         List<Person> persons = new ArrayList<>();
         for (String phone : phoneNumbers(N) ){
             persons.add( new Person( name(), phone));
