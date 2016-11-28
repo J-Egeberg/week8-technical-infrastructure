@@ -1,4 +1,5 @@
 #GIT
+![](img/Git-Cheat-Sheet.png) 
 ## Repositories
 ###Start repo
 
