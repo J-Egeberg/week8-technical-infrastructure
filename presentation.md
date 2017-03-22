@@ -1,4 +1,8 @@
-#GIT: 2 days
+
+#GIT (2 days)
+![](img/Git-Cheat-Sheet.png) 
+
+
 ## Studymaterial
 Get the book [here](https://git-scm.com/book/en/v2)  
 [Use this interactive tutorial](http://learngitbranching.js.org/) to learn git branching  
@@ -58,6 +62,12 @@ Creating repository on github
 
 
 ## Day1: Getting started
+This topic is about using git from the command-line tool: git bash  <br>  
+1. Install git (get it [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))  
+2. Download the free e-book: Pro Git (from [here](https://git-scm.com/book/en/v2))  
+3. Make an account on github.com  
+4. Create your firts repo.
+
 ### Global settings
 
 - Insert your identy into git

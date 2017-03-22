@@ -12,7 +12,7 @@ These 2 days covers what you need to know to work efficiently as a team using gi
   - git commands like: add, commit, push, fetch, merge  
   - Create branches  
   - Merge branches with rebase  
-  - Forking a project (vs. branching)  
+  - Forking a project
   - Making a pull request  
   - Using git issues   
   - Labels and notifications  
@@ -28,7 +28,6 @@ Good explanation of the 3 workflows [](https://www.atlassian.com/git/tutorials/c
 This is a small interactive tutorial on branching [here](http://learngitbranching.js.org/)  
 
 
-=======
 #Technical infra structure
 This week will focus on getting the technical infrastructure up and running. There are two topics for this week:
 
